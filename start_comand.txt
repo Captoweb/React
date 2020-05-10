@@ -1,0 +1,14 @@
+
+npx create-react-app my-app
+cd my-app
+
+собирает проект
+
+
+
+npm start
+
+команда запускает react
+
+ 
+https://marvelapp.com/39ef033/screen/52510122
